@@ -1,18 +1,16 @@
 import socket
 import time
 
-s = socket.socket()
+s = socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
+
 
 host = socket.gethostname()
-port = 12306
+port = 4445
 s.bind((host,port))
 
-s.listen(5)
+data,addr = s.recvfrom(1024)
+s.sendto(b"revieved\n",addr)
 
-while True:
-    c,addr = s.accept()
-    print("地址：",addr)
-    c.send(b'Connected\n')
-    print(c.recv(1024))
-    
-    c.close()   
+print(data)
+
+s.close() 
