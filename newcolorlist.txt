@@ -1,0 +1,949 @@
+pale blue|acc2d9
+light green|56ae57
+tan|b2996e
+neon green|a8ff04
+bright green|69d84f
+purple|894585
+bright green|70b23f
+light blue|d4ffff
+seafoam green|65ab7c
+warm purple|952e8f
+light yellow|fcfc81
+cement|a5a391
+deep green|388004
+dusty teal|4c9085
+grey teal|5e9b8a
+golden yellow|efb435
+pinkish tan|d99b82
+dark green|0a5f38
+deep blue|0c06f7
+neon green|61de2a
+dusty blue|3778bf
+blue|2242c7
+purple|533cc6
+yellow-green|9bb53c
+mint|05ffa6
+dark green|1f6357
+dark turquoise|017374
+green teal|0cb577
+bright pink|ff0789
+tan|afa88b
+dark teal|08787f
+lavender pink|dd85d7
+light green|a6c875
+light mint green|a7ffb5
+olive yellow|c2b709
+pink|e78ea5
+deep lilac|966ebd
+tan|ccad60
+dusty lavender|ac86a8
+purpley grey|947e94
+purple|983fb2
+bright pink|ff63e9
+light pastel green|b2fba5
+green|63b365
+neon green|8ee53f
+light grey green|b7e1a1
+coral|ff6f52
+light mint green|bdf8a3
+tan|d3b683
+eggshell|fffcc4
+eggplant purple|430541
+light pink|ffb2d0
+reddish grey|997570
+golden-brown|ad900d
+liliac|c48efd
+gray-blue|507b9c
+brown|7d7103
+light yellow|fffd78
+dark pink|da467d
+dark brown|410200
+beige|c9d179
+light yellow|fffa86
+dusty blue|5684ae
+gray|6b7c85
+brown|6f6c0a
+purple|7e4071
+bright green|009337
+yellow|d0e429
+yellow|fff917
+blue|1d5dec
+dark green|054907
+green-yellow|b5ce08
+pale green|8fb67b
+light mint green|c8ffb0
+pale gold|fdde6c
+sun yellow|ffdf22
+tan green|a9be70
+bright purple|6832e3
+yellow|fdb147
+tan|c7ac7d
+tan|fff39a
+dark red|850e04
+light lavendar|efc0fe
+neon green|40fd14
+yellow-green|b6c406
+bright yellow green|9dff00
+charcoal grey|3c4142
+orange|f2ab15
+brown|ac4f06
+very light green|c4fe82
+neon green|2cfa1f
+brown|9a6200
+lavender|ca9bf7
+brown|875f42
+light royal blue|3a2efe
+light orange|fd8d49
+dark brown|8b3103
+tan|cba560
+olive green|698339
+tealish green|0cdc73
+brown|b75203
+olive green|7f8f4e
+dusty blue|26538d
+light green|63a950
+dusty rose pink|c87f89
+pale light green|b1fc99
+peachy pink|ff9a8a
+rosy pink|f6688e
+light green|76fda8
+neon green|53fe5c
+neon green|4efd54
+light mint green|a0febf
+light blue|7bf2da
+light mint green|bcf5a6
+brown|ca6b02
+dusty blue|107ab0
+deep blue|2138ab
+greyish teal|719f91
+orangey yellow|fdb915
+cream|fefcaf
+light yellow|fcf679
+very dark brown|1d0200
+brown|cb6843
+dusty blue|31668a
+bright blue|247afd
+cream|ffffb6
+light mint green|90fda9
+gray-green|86a17d
+light gold|fddc5c
+light teal|78d1b6
+teal|13bbaf
+hot pink|fb5ffc
+bright green|20f986
+light yellow|ffe36e
+dark fuchsia|9d0759
+deep blue|3a18b1
+light green|c2ff89
+pale magenta|d767ad
+rich purple|720058
+yellow|ffda03
+teal|01c08d
+light brown|ac7434
+dark green|014600
+bright purple|9900fa
+dark blue|02066f
+brown|8e7618
+dusty pink|d1768f
+yellow-green|96b403
+light yellow|fdff63
+cool grey|95a3a6
+dark brown|7f684e
+dark purple|751973
+green|089404
+coral pink|ff6163
+dusty green|598556
+dark slate blue|214761
+dusty blue|3c73a8
+beige|ba9e88
+blue|021bf9
+dusty purple|734a65
+teal|23c48b
+yellow-green|8fae22
+light yellow|e6f2a2
+warm blue|4b57db
+dark hot pink|d90166
+dark blue|015482
+dark red|9d0216
+dark yellow green|728f02
+cream|ffe5ad
+plum purple|4e0550
+golden yellow|f9bc08
+neon red|ff073a
+dusty pink|c77986
+light blue|d6fffe
+deep orange|fe4b03
+coral|fd5956
+light yellow|fce166
+brown|b2713d
+dark blue grey|1f3b4d
+green|699d4c
+mint|56fca2
+bright pink|fb5581
+bright blue|3e82fc
+yellow-green|a0bf16
+light blue|d6fffa
+gray blue|4f738e
+light pink|ffb19a
+green|5c8b15
+blue-green|54ac68
+bluey grey|89a0b0
+greeny grey|7ea07a
+neon green|1bfc06
+light blue|cafffb
+light mint|b6ffbb
+brown|a75e09
+blue|152eff
+deep lavender|8d5eb7
+dull teal|5f9e8f
+light greenish blue|63f7b4
+olive green|606602
+pink|fc86aa
+deep red|8c0034
+olive green|758000
+brown|ab7e4c
+dark blue|030764
+pink|fe86a4
+hot pink|d5174e
+light pink|fed0fc
+dark brown|680018
+yellow|fedf08
+orange-red|fe420f
+olive green|6f7c00
+dark pink|ca0147
+black|1b2431
+bright teal|00fbb0
+pastel red|db5856
+yellow|ddd618
+light blue|41fdfe
+dark coral|cf524e
+green|21c36f
+dark red|a90308
+brown|6e1005
+pink|fe828c
+dark green|4b6113
+green|4da409
+tan|beae8a
+blue|0339f8
+tan|a88f59
+dark purple|5d21d0
+golden yellow|feb209
+pale purple-blue|4e518b
+brown|964e02
+blue-gray|85a3b2
+bright pink|ff69af
+light blue|c3fbf4
+teal|2afeb7
+dark gray-blue|005f6a
+dark blue|0c1793
+light yellow|ffff81
+orange|f0833a
+light yellow|f1f33f
+pale green|b1d27b
+orange|fc824a
+green|71aa34
+light blue|b7c9e2
+dark red|4b0101
+light magenta|a552e6
+rusty red|af2f0d
+lavender blue|8b88f8
+light green|9af764
+light mint green|a6fbb2
+yellow|ffc512
+deep magenta|750851
+dark orange|c14a09
+hot pink|fe2f4a
+blue|0203e2
+dark blue|0a437a
+deep magenta|a50055
+tan|ae8b0c
+pink|fd798f
+yellow|bfac05
+teal|3eaf76
+dark pink|c74767
+dusty red|b9484e
+gray-blue|647d8e
+neon yellow-green|bffe28
+fuschia|d725de
+tan|b29705
+brown|673a3f
+lavender|a87dc2
+light yellow|fafe4b
+red|c0022f
+blue|0e87cc
+brown grey|8d8468
+bright purple|ad03de
+mint green|8cff9e
+yellow-green|94ac02
+light blue|c4fff7
+light yellow|fdee73
+light green|33b864
+cream|fff9d0
+blue-gray|758da3
+hot magenta|f504c9
+gray-blue|77a1b5
+purple|8756e4
+olive green|889717
+dusty rose pink|c27e79
+dark teal|017371
+brown|9f8303
+light yellow|f7d560
+light blue|bdf6fe
+light green|75b84f
+light green|9cbb04
+dark grey blue|29465b
+dark blue|696006
+neon green|adf802
+lavender|c1c6fc
+teal|35ad6b
+yellow|fffd37
+purple|a442a0
+pink|f36196
+brown|947706
+light pink|fff4f2
+green|1e9167
+yellow-green|b5c306
+light yellow|feff7f
+light green|cffdbc
+green|0add08
+neon green|87fd05
+green|1ef876
+ mint green|7bfdc7
+light mint green|bcecac
+yellowgreen|bbf90f
+light brown|ab9004
+teal|1fb57a
+deep teal|00555a
+dusty lavender|a484ac
+rust orange|c45508
+dusty blue|3f829d
+dusty green|548d44
+fuschia|c95efb
+green|3ae57f
+dark blue|016795
+olive green|87a922
+orange|f0944d
+dark purple|5d1451
+neon green|25ff29
+neon green|d0fe1d
+orange|ffa62b
+green|01b44c
+pink|ff6cb5
+brown|6b4247
+golden yellow|c7c10c
+light blue|b7fffa
+light green|aeff6e
+red|ec2d01
+light green|76ff7b
+maroon|730039
+dark blue|040348
+hot pink|df4ec8
+green|6ecb3c
+olive green|8f9805
+green|5edc1f
+fuschia|d94ff5
+yellow-green|c8fd3d
+black|070d0d
+cool blue|4984b8
+green|51b73b
+light brown|ac7e04
+dark blue|4e5481
+brown|876e4b
+green|58bc08
+green|2fef10
+neon green|2dfe54
+neone green|0aff02
+green|9cef43
+green|18d17b
+dark green|35530a
+blue|1805db
+purple|6258c4
+orange|ff964f
+orange|ffab0f
+lavender|8f8ce7
+teal|24bca8
+dark plum|3f012c
+light green|cbf85f
+coral|ff724c
+dark purple|280137
+light purple|b36ff6
+green|48c072
+greenish tan|bccb7a
+light burgundy|a8415b
+turquoise blue|06b1c4
+dusty rose pink|cd7584
+tan|f1da7a
+hot pink|ff0490
+muted purple|805b87
+green|50a747
+gray|a8a495
+neon yellow|cfff04
+light yellow|ffff7e
+pink|ff7fa7
+red|ef4026
+teal|3c9992
+brown|886806
+green|04f489
+light yellow|fef69e
+tan|cfaf7b
+muted blue|3b719f
+light pink|fdc1c5
+dark mint green|20c073
+purple|9b5fc0
+blue/green|0f9b8e
+brown|742802
+light green|9db92c
+light green|a4bf20
+dark orange|cd5909
+gray|ada587
+dark pink|be013c
+light blue|b8ffeb
+deep orange|dc4d01
+brown|a2653e
+green|638b27
+green|419c03
+neon green|b1ff65
+light blue|9dbcd4
+white|fdfdfe
+light green|77ab56
+dark blue|464196
+dark pink|990147
+light green|befd73
+teal|32bf84
+brown|af6f09
+deep magenta|a0025c
+light peach|ffd8b1
+chocolate|7f4e1e
+light brown|bf9b0c
+muted green|6ba353
+pink|f075e6
+light blue|7bc8f6
+muted blue|475f94
+light orange|f5bf03
+light beige|fffeb6
+light yellow|fffd74
+muted purple|895b7b
+blue|436bad
+dark yellow|d0c101
+green-yellow|c6f808
+red|f43605
+green|02c14d
+brown|b25f03
+green|2a7e19
+deep violet|490648
+gray|536267
+bright blue|5a06ef
+red|cf0234
+brown|c4a661
+gray|978a84
+dark blue|1f0954
+dark blue|03012d
+bluey green|2bb179
+muted pink|c3909b
+purple|a66fb5
+brown|770001
+brown|922b05
+gray|7d7f7c
+dark fuschia|990f4b
+brown|8f7303
+pink|c83cb9
+light pink|fea993
+light green|acbb0d
+purple|c071fe
+light yellow green|ccfd7f
+dark navy blue|00022e
+olive green|828344
+light pink|ffc5cb
+red|ab1239
+red|b0054b
+light green|99cc04
+brown|937c00
+green|019529
+hot pink|ef1de7
+dark navy|000435
+teal|42b395
+mauve|9d5783
+pale pink|c8aca9
+muted orange|c87606
+red|aa2704
+lavender|e4cbff
+red|fa4224
+blue|0804f9
+green|5cb200
+brown|76424e
+olive green|6c7a0e
+tan|fbdd7e
+very dark purple|2a0134
+dark green|044a05
+dark pink|fd4659
+blue|0d75f8
+red|fe0002
+golden yellow|cb9d06
+orange|fb7d07
+pale olive|b9cc81
+light lilac|edc8ff
+light green|61e160
+light blue|8ab8fe
+maroon|920a4e
+hot pink|fe02a2
+brown|9a3001
+neon green|65fe08
+light blue|befdb7
+brown|b17261
+brown|885f01
+bright blue|02ccfe
+light green|c1fd95
+brown|836539
+red|fb2943
+green|84b701
+brown|b66325
+brown|7f5112
+green|5fa052
+light blue|6dedfd
+bright aqua|0bf9ea
+purple|c760ff
+cream|ffffcb
+light pink|f6cefc
+dark blue|155084
+red|f5054f
+brown|645403
+brown|7a5901
+olive green|a8b504
+dark teal|3d9973
+very dark blue|000133
+dark mint green|76a973
+dark blue|2e5a88
+green|0bf77d
+brown|bd6c48
+fuschia|ac1db8
+green|2baf6a
+bright light blue|26f7fd
+light green|aefd6c
+tan|9b8f55
+orange|ffad01
+tan|c69c04
+golden yellow|f4d054
+light pink|de9dac
+dark green|05480d
+tan|c9ae74
+brown|60460f
+light green|98f6b0
+light blue|8af1fe
+teal|2ee8bb
+dark green|11875d
+light pink|fdb0c0
+brown|b16002
+red|f7022a
+dark yellow|d5ab09
+brownish grey|86775f
+light brown|c69f59
+purplish grey|7a687f
+navy blue|042e60
+muted pink|c88d94
+light mint green|a5fbd5
+light yellow|fffe71
+bluey purple|6241c7
+yellow|fffe40
+red|d3494e
+brown|985e2b
+coffee|a6814c
+hot pink|ff08e8
+brown|9d7651
+cream|feffca
+muted purple|98568d
+maroon|9e003a
+dark green|287c37
+brown|b96902
+muted pink|ba6873
+coral|ff7855
+light green|94b21c
+silver|c5c9c7
+purpleish blue|661aee
+purpleish blue|6140ef
+mint|9be5aa
+brown|7b5804
+blue|276ab3
+orange|feb308
+light green|8cfd7e
+light blue|6488ea
+blue|056eee
+brown|b27a01
+bright turquoise|0ffef9
+hot pink|fa2a55
+maroon|820747
+greyish brown|7a6a4f
+red|f4320c
+brown|a13905
+steel grey|6f828a
+purple|a55af4
+purple|ad0afd
+dark blue|004577
+muted green|658d6d
+muted pink|ca7b80
+dark green|005249
+dark green|2b5d34
+yellow-green|bff128
+gold|b59410
+blue|2976bb
+dark blue|014182
+dull red|bb3f3f
+red|fc2647
+brown|a87900
+pale teal|82cbb2
+olive green|667c3e
+hot pink|fe46a5
+pink|fe83cc
+olive green|94a617
+light brown|a88905
+brown|7f5f00
+purple|9e43a2
+dark green|062e03
+brown|8a6e45
+muted pink|cc7a8b
+dark fuschia|9e0168
+yellow|fdff38
+light green|c0fa8b
+yellow|eedc5b
+green|7ebd01
+blue|3b5b92
+teal blue|01889f
+blue|3d7afd
+purpleish blue|5f34e7
+purpleish blue|6d5acf
+olive green|748500
+olive green|706c11
+dark maroon|3c0008
+hot pink|cb00f5
+dark green|002d04
+faded blue|658cbb
+muted green|749551
+light green|b9ff66
+light green|9dc100
+yellow|faee66
+light teal|7efbb3
+maroon|7b002c
+light mauve|c292a1
+dark teal|017b92
+golden yellow|fcc006
+olive green|657432
+dull orange|d8863b
+blue-gray|738595
+bright purple|aa23ff
+neon green|08ff08
+light brown|9b7a01
+light pink|f29e8e
+light green|6fc276
+bright orange|ff5b00
+yellow|fdff52
+purple gray|866f85
+neon green|8ffe09
+pale lavender|eecffe
+violet blue|510ac9
+green|4f9153
+brown|9f2305
+olive green|728639
+hot pink|de0c62
+faded purple|916e99
+light orange|ffb16d
+dark green|3c4d03
+gray brown|7f7053
+muted green|77926f
+blue|010fcc
+lavender|ceaefa
+periwinkle blue|8f99fb
+light blue|c6fcff
+purpleish blue|5539cc
+dark green|544e03
+dark teal|017a79
+bright teal|01f9c6
+golden yellow|c9b003
+olive green|929901
+dark green|0b5509
+fuschia|a00498
+dark blue|2000b1
+dull purple|94568c
+golden yellow|c2be0e
+bluish grey|748b97
+dark periwinkle|665fd1
+dark lilac|9c6da5
+reddish brown|c44240
+light maroon|a24857
+dusty purple|825f87
+brown|c9643b
+green|90b134
+dark blue|01386a
+teal green|25a36f
+slate grey|59656d
+neon green|75fd63
+neon green|21fc0d
+dusty blue|5a86ad
+golden yellow|fec615
+bright yellow|fffd01
+light lavender|dfc5fe
+brown|b26400
+brown|7f5e00
+coral|de7e5d
+green|048243
+cream|ffffd4
+muted blue|3b638c
+light brown|b79400
+dull purple|84597e
+dark brown|411900
+maroon|7b0323
+neon blue|04d9ff
+olive green|667e2c
+light tan|fbeeac
+light blue|d7fffe
+muted blue|4e7496
+dark mauve|874c62
+light blue|d5ffff
+grey purple|826d8c
+pastel pink|ffbacd
+light green|d1ffbd
+bright blue|448ee4
+dark green|05472a
+dull pink|d5869d
+dark purple|3d0734
+dark brown|4a0100
+red|f8481c
+dark green|02590f
+olive green|89a203
+hot pink|e03fd8
+dusty pink|d58a94
+faded green|7bb274
+dark green|526525
+hot pink|c94cbe
+hot pink|db4bda
+brown|9e3623
+dark rose pink|b5485d
+brown|735c12
+brown|9c6d57
+green|028f1e
+light brown|b1916e
+dull blue|49759c
+brown|a0450e
+green|39ad48
+brown|b66a50
+light aqua blue|8cffdb
+light olive green|a4be5c
+brown|cb7723
+dark aqua blue|05696b
+pink|ce5dae
+muted red|c85a53
+greenish grey|96ae8d
+green|1fa774
+green|7a9703
+dark beige|ac9362
+green|01a049
+muted red|d9544d
+fuschia|fa5ff7
+light blue|82cafc
+light blue|acfffc
+light orange|fcb001
+maroon|910951
+hot pink|fe2c54
+light purple|c875c4
+golden yellow|cdc50a
+red|fd411e
+deep red|9a0200
+brown|be6400
+dark blue|030aa7
+neon pink|fe019a
+rose pink|f7879a
+greyish purple|887191
+maroon|b00149
+light green|12e193
+light pink|fe7b7c
+orange|ff9408
+olive green|6a6e09
+brown|8b2e16
+olive green|696112
+orange|e17701
+dark green|0a481e
+dark gray|343837
+light pink|ffb7ce
+periwinkle|6a79f7
+purpleish blue|5d06e9
+dark brown|3d1c02
+greyish green|82a67d
+red|be0119
+green yellow|c9ff27
+dark green|373e02
+brown|a9561e
+lavender|caa0ff
+brown|ca6641
+aqua blue|02d8e9
+light green|88b378
+dark red|980002
+deep pink|cb0162
+green|5cac2d
+green|769958
+pastel blue|a2bffe
+bluish green|10a674
+teal|06b48b
+dark tan|af884a
+teal|0b8b87
+pale orange|ffa756
+yellow green|a2a415
+dark green|154406
+muted purple|856798
+dark purple|34013f
+purpleish blue|632de9
+dark teal|0a888a
+olive green|6f7632
+pink|d46a7e
+dark blue|1e488f
+neon purple|bc13fe
+mint green|7ef4cc
+green|76cd26
+dull green|74a662
+maroon|80013f
+light blue|b1d1fc
+off white|ffffe4
+bright blue|0652ff
+dark turquoise|045c5a
+purpleish blue|5729ce
+blue|069af3
+red|ff000d
+red|f10c45
+blue|5170d7
+light green|acbf69
+deep purple|6c3461
+greyish blue|5e819d
+purpleish blue|601ef9
+yellow green|b0dd16
+yellow green|cdfd02
+muted blue|2c6fbb
+dusty rose pink|c0737a
+lavender|d6b4fc
+dark blue|020035
+purpleish blue|703be7
+red|fd3c06
+dark magenta|960056
+green|40a368
+blue|03719c
+coral|fc5a50
+cream|ffffc2
+brown|7f2b0a
+brown|b04e0f
+brown|a03623
+light green|87ae73
+light green|789b73
+white|ffffff
+light blue|98eff9
+light green|658b38
+muted blue|5a7d9a
+dark purple|380835
+light yellow|fffe7a
+green|5ca904
+light grey|d8dcd6
+tan|a5a502
+hot pink|d648d7
+blue|047495
+pale purple|b790d4
+slate blue|5b7c99
+blue grey|607c8e
+dark green|0b4008
+fuchsia|ed0dd9
+maroon|8c000f
+light yellow|ffff84
+tan|bf9005
+golden yellow|d2bd0a
+light red|ff474c
+blue|0485d1
+pale pink|ffcfdc
+dark blue|040273
+brown|a83c09
+light teal|90e4c1
+dark gray|516572
+light orange|fac205
+dark yellow|d5b60a
+dark grey|363737
+dark green|4b5d16
+grey blue|6b8ba4
+mint green|80f9ad
+brown|a57e52
+light green|a9f971
+dark orange|c65102
+tan|e2ca76
+light green|b0ff9d
+mint green|9ffeb0
+light orange|fdaa48
+hot pink|fe01b1
+light green|c1f80a
+deep purple|36013f
+dark brown|341c02
+tan|b9a281
+green|8eab12
+green|9aae07
+green|02ab2e
+mint green|7af9ab
+dark teal|137e6d
+khaki|aaa662
+maroon|610023
+dark teal|014d4e
+dark red|8f1402
+dark purple|4b006e
+dark purple|580f41
+mint green|8fff9f
+gold|dbb40c
+light blue|a2cffe
+yellow green|c0fb2d
+bright purple|be03fd
+dark red|840000
+pale blue|d0fefe
+green|3f9b0b
+navy blue|01153e
+teal|04d8b2
+dark orange|c04e01
+neon green|0cff0c
+bright blue|0165fc
+rose pink|cf6275
+light pink|ffd1df
+golden yellow|ceb301
+dark blue|380282
+light green|aaff32
+mint green|53fca1
+periwinkle|8e82fe
+dark pink|cb416b
+olive green|677a04
+peach|ffb07c
+pale green|c7fdb5
+light brown|ad8150
+hot pink|ff028d
+black|000000
+lilac|cea2fd
+navy blue|001146
+dark blue|0504aa
+beige|e6daa6
+coral|ff796c
+olive green|6e750e
+maroon|650021
+bright green|01ff07
+dark purple|35063e
+mauve|ae7181
+dark green|06470c
+teal|13eac9
+light blue|00ffff
+tan|d1b26f
+dark blue|00035b
+lavender|c79fef
+teal|06c2ac
+dark green|033500
+purple|9a0eea
+light purple|bf77f6
+neon green|89fe05
+grey|929591
+light blue|75bbfd
+yellow|ffff14
+magenta|c20078
+light green|96f97b
+orange|f97306
+teal|029386
+light blue|95d0fc
+red|e50000
+brown|653700
+pink|ff81c0
+blue|0343df
+green|15b01a
+purple|7e1e9c
